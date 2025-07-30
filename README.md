@@ -60,4 +60,4 @@ make
 bash
 ./binario.out
 
-O arquivo CSV pode ser baixado diretamente [clicando aqui](https://drive.google.com/uc?export=download&id=1ho4_Dg52ydTpZ_26EEJju58mUyxoZmlx).
+O arquivo CSV pode ser baixado diretamente por este link: https://drive.google.com/uc?export=download&id=1ho4_Dg52ydTpZ_26EEJju58mUyxoZmlx
