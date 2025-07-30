@@ -40,16 +40,17 @@ projeto_final_ed/
 ├── binario.out                # Executável gerado
 ├── Makefile                   # Script de compilação
 ├── property-transfer-*.csv    # Dados de entrada (exemplo)
-## 🛠️ Como Executar
 
-### ✅ Pré-requisitos
+🛠️ Como Executar
+
+✅ Pré-requisitos
 - Compilador C++ (g++ recomendado)
 - Linux/macOS ou WSL no Windows
 - `make` instalado (para usar o Makefile)
 
 ---
 
-### ⚙️ Compilar o projeto
+⚙️ Compilar o projeto
 
 bash
 make
